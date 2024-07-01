@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @issamelgamal
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👀 I’m front-end developer 
 - 📫 How to reach me issamelgamal4583@gmail.com
 
 <!---
